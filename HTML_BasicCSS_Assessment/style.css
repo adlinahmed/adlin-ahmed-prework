@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: rgb(93, 180, 206);
+}
+
+h1 {
+  text-align: left;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-weight: bold;
+}
+
+
+h2 {
+  text-align: center;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+h3 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+}
+
+h4 {
+  text-align: center;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  border: whitesmoke;
+  border-style: solid;
+  border-width: medium;
+  margin-left: 875px;
+   margin-right: 875px; 
+}
