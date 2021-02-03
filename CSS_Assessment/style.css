@@ -1,0 +1,36 @@
+#nav-bar{
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+}
+
+#blue-box{
+    background-color: blue;
+    float: left;
+    width: 50%;
+    padding-bottom: 300px;
+    padding-top: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#red-box{
+    background-color: red;
+    float: right;
+    width: 25%;
+    padding-bottom: 300px;
+    padding-top: 300px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#footer-bar{
+    background-color: green;
+    text-align: center;
+    margin-top: 900px;
+    width: 100%;
+    position: fixed;
+}
