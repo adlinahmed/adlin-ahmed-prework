@@ -19,6 +19,7 @@ h2 {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: small;
+  padding-top: 20%;
 }
 
 h3 {
@@ -36,7 +37,9 @@ h4 {
   font-size: small;
   border: whitesmoke;
   border-style: solid;
-  border-width: medium;
-  margin-left: 875px;
-   margin-right: 875px; 
+  border-width: 2px;
+  margin-left: 45%;
+  margin-right: 45%; 
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
