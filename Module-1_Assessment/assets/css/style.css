@@ -1,0 +1,12 @@
+#navbar{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 100%;
+    position:fixed;
+}
+
+#container{
+    background-image: url(round.png);
+    padding-top: 300px;
+    
+}
